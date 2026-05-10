@@ -1,7 +1,7 @@
 # 📥 Archive Download Links
-Generated on: Sun May 10 11:42:50 UTC 2026
-Source URL: https://mega.nz/file/OKw2ybhD#y3AEWDMotF2YZQHIKFBYYwpYmO2_ZqxxW7X5AQFtSdw
+Generated on: Sun May 10 16:17:49 UTC 2026
 
+- [Download bo.zip](https://github.com/pejvaksneaf/experimental-downloader/raw/web/web/bo.zip)
 - [Download gmaingdj.zip](https://github.com/pejvaksneaf/experimental-downloader/raw/web/web/gmaingdj.zip)
 - [Download mega.zip](https://github.com/pejvaksneaf/experimental-downloader/raw/web/web/mega.zip)
 - [Download nexus.zip](https://github.com/pejvaksneaf/experimental-downloader/raw/web/web/nexus.zip)
